@@ -1,5 +1,5 @@
 
-    #Andy Gonzalez's Portfolio
+# Andy Gonzalez's Portfolio
 
 I am an Electircal Engineer student at Cal State, Fullerton.  I will graduate in 2028.
 
