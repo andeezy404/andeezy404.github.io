@@ -3,7 +3,7 @@
 
 My name is Andy Gonzalez and I am an Electircal Engineer student at [Cal State Fullerton](http://www.fullerton.edu/).  I will graduate in 2028.
 
-My github page is https://github.com/andeezy404
+My github page is [https://github.com/andeezy404] (https://github.com/andeezy404)
 
 ## Favorite CPSC 120L Labs  
 
